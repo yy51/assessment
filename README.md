@@ -9,3 +9,6 @@ https://yy51.github.io/assessment/assessment.html
 
 # 遊び方
 名前を入力して「診断する」をクリックすると、あなたのいいところが表示されます．
+
+# 詳細(Wiki)
+https://github.com/yy51/assessment/wiki
